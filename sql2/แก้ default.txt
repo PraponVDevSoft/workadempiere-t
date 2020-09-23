@@ -1,0 +1,11 @@
+PP_Product_BOM
+	bomtype = 'K'
+	bomuse = 'M'
+
+Product Material »Ô´ 
+	replenish
+	purchasing
+	business partner
+	download
+	accounting
+	cost
