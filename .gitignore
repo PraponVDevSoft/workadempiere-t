@@ -21,3 +21,34 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+
+/billing
+/query
+
+/ws371t1/.metadata/
+/ws371t1/adempiereLibero/
+/ws371t1/adempiereTrunk/
+/ws371t1/BillingModule/
+/ws371t1/customization/.settings/
+/ws371t1/customization/bin/
+/ws371t1/RemoteSystemsTempFiles/
+
+
+/ws371t2/.metadata/
+/ws371t2/adempiereLibero/
+/ws371t2/adempiereTrunk/
+/ws371t2/BillingModule/
+/ws371t2/customization/.settings/
+/ws371t2/customization/bin/
+/ws371t2/RemoteSystemsTempFiles/
+
+
+/ws392t2/.metadata/
+/ws392t2/adempiereLibero/
+/ws392t2/adempiereTrunk/
+/ws392t2/BillingModule/
+/ws392t2/customization/.settings/
+/ws392t2/customization/bin/
+/ws392t2/RemoteSystemsTempFiles/
