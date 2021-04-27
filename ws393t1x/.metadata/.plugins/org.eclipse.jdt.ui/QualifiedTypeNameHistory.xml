@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.compiere.model.CalloutEngine"/>
+    <fullyQualifiedTypeName name="org.compiere.model.X_C_UOM"/>
+    <fullyQualifiedTypeName name="org.compiere.model.X_C_UOM_Conversion"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MTable"/>
+    <fullyQualifiedTypeName name="com.tk.callout.TKCallout"/>
+    <fullyQualifiedTypeName name="org.zkoss.zhtml.Big"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="org.compiere.model.I_M_Inventory"/>
+    <fullyQualifiedTypeName name="javax.swing.JDialog"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MProduct"/>
+    <fullyQualifiedTypeName name="org.eevolution.model.X_PP_Product_BOM"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MOrderLine"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MOrder"/>
+    <fullyQualifiedTypeName name="org.compiere.model.I_C_UOM"/>
+    <fullyQualifiedTypeName name="org.compiere.model.I_M_InventoryLine"/>
+    <fullyQualifiedTypeName name="org.compiere.model.Query"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MStorage"/>
+    <fullyQualifiedTypeName name="org.apache.commons.beanutils.converters.BigDecimalConverter"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MAttributeSetInstance"/>
+    <fullyQualifiedTypeName name="org.compiere.util.KeyNamePair"/>
+    <fullyQualifiedTypeName name="org.adempiere.exceptions.AdempiereException"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MInventory"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MInventoryLine"/>
+    <fullyQualifiedTypeName name="org.compiere.process.SvrProcess"/>
+</qualifiedTypeNameHistroy>

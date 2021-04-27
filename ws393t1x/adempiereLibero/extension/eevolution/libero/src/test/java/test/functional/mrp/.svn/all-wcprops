@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/10682/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp
+END
+TestableMRP.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/adempiere/!svn/ver/10682/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/TestableMRP.java
+END
+MRPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/10517/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/MRPUtil.java
+END
+MRPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/10517/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/MRPTest.java
+END
+MRPTests_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/8335/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/MRPTests_README.txt
+END
+CSVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/10517/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/CSVFactory.java
+END
+MRPNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/adempiere/!svn/ver/8335/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/MRPNotice.java
+END
+MRPTests.csv
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/10517/branches/libero/extension/eevolution/libero/src/test/java/test/functional/mrp/MRPTests.csv
+END

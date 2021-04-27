@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;View.java&apos; to &apos;customization/src/org.compiere.print&apos;&#x0D;&#x0A;- Original project: &apos;adempiereTrunk&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src/org.compiere.print&apos;&#x0D;&#x0A;- Original element: &apos;org.compiere.print.View.java&apos;" description="Copy compilation unit" destination="=customization/src&lt;org.compiere.print" element1="/base\/src&lt;org.compiere.print{View.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1405508111131" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Language.java&apos; to &apos;customization/src/org.compiere.util&apos;&#x0D;&#x0A;- Original project: &apos;adempiere&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src/org.compiere.util&apos;&#x0D;&#x0A;- Original element: &apos;org.compiere.util.Language.java&apos;" description="Copy compilation unit" destination="=customization/src&lt;org.compiere.util" element1="/base\/src&lt;org.compiere.util{Language.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1507015148779" units="1" version="1.0"/>
+</session>

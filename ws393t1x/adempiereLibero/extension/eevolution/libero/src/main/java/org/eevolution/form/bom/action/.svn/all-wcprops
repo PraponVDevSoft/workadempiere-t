@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action
+END
+MergeBOMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/MergeBOMAction.java
+END
+ChangeASIAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/ChangeASIAction.java
+END
+DeleteBOMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/DeleteBOMAction.java
+END
+language_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/language_de.properties
+END
+CreateRfQAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/CreateRfQAction.java
+END
+language.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/adempiere/!svn/ver/8334/branches/libero/extension/eevolution/libero/src/main/java/org/eevolution/form/bom/action/language.properties
+END

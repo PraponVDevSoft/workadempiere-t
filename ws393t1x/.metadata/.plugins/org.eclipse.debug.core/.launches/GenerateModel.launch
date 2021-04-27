@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/adempiereTrunk/base/src/org/adempiere/util/GenerateModel.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.adempiere.util.GenerateModel"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="'D:\work-luna-371t\workspace\customization\src\org\tkgarment\model'&#13;&#10;org.tkgarment.model&#13;&#10;'U'&#13;&#10;'PP_Product_BOM'"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="customization"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DPropertyFile=&quot;D:\work-luna-371t\Adempiere.properties&quot;"/>
+</launchConfiguration>

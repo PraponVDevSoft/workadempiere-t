@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree
+END
+DefaultTreeCheckingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/DefaultTreeCheckingModel.java
+END
+SimpleTreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/SimpleTreeCheckingMode.java
+END
+TreeCheckingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/TreeCheckingListener.java
+END
+DefaultCheckboxTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/DefaultCheckboxTreeCellRenderer.java
+END
+CheckboxTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/CheckboxTreeCellRenderer.java
+END
+PropagateTreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/PropagateTreeCheckingMode.java
+END
+QuadristateButtonModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/QuadristateButtonModel.java
+END
+TreeCheckingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/TreeCheckingEvent.java
+END
+CheckboxTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/CheckboxTree.java
+END
+PropagateUpWhiteTreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/PropagateUpWhiteTreeCheckingMode.java
+END
+TreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/TreeCheckingMode.java
+END
+PropagatePreservingUncheckTreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/PropagatePreservingUncheckTreeCheckingMode.java
+END
+QuadristateCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/QuadristateCheckbox.java
+END
+PropagatePreservingCheckTreeCheckingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/PropagatePreservingCheckTreeCheckingMode.java
+END
+TreeCheckingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/adempiere/!svn/ver/8894/branches/libero/extension/eevolution/libero/src/main/java/it/cnr/imaa/essi/lablib/gui/checkboxtree/TreeCheckingModel.java
+END

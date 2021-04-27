@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CFrame.java&apos; to &apos;customization/src/org.compiere.swing&apos;&#x0D;&#x0A;- Original project: &apos;adempiereTrunk&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src/org.compiere.swing&apos;&#x0D;&#x0A;- Original element: &apos;CFrame.java&apos;" description="Copy file" destination="=customization/src&lt;org.compiere.swing" element1="base/src/org/compiere/swing/CFrame.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1382425229734" units="0" version="1.0"/>
+</session>

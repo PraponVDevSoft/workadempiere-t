@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;C_UOM_ID&apos; in &apos;com.tk.callout.TKCallout.purchaseUnitChanged(...)&apos; to &apos;toUomId&apos;&#x0D;&#x0A;- Original project: &apos;tkgarment&apos;&#x0D;&#x0A;- Original element: &apos;com.tk.callout.TKCallout.purchaseUnitChanged(Properties, int, GridTab, GridField, Object).C_UOM_ID&apos;&#x0D;&#x0A;- Renamed element: &apos;C_UOM_ID&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;C_UOM_ID&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.tk.callout{TKCallout.java[TKCallout~purchaseUnitChanged~QProperties;~I~QGridTab;~QGridField;~QObject;@C_UOM_ID!531!560!535!542!I!0!false" name="toUomId" references="true" stamp="1346133408589" version="1.0"/>
+</session>

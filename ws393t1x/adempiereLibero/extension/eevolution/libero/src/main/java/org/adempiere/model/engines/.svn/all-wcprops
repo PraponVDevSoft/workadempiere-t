@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/16306/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines
+END
+CostEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/adempiere/!svn/ver/16306/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/CostEngine.java
+END
+StorageEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/10619/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/StorageEngine.java
+END
+CostEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/adempiere/!svn/ver/10619/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/CostEngineFactory.java
+END
+CostDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/adempiere/!svn/ver/10124/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/CostDimension.java
+END
+IDocumentLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/8889/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/IDocumentLine.java
+END
+IInventoryAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/adempiere/!svn/ver/8889/branches/libero/extension/eevolution/libero/src/main/java/org/adempiere/model/engines/IInventoryAllocation.java
+END

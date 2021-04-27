@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CompletePrintOrder.java&apos; to &apos;customization/src&apos;&#x0D;&#x0A;- Original project: &apos;adempiereLibero&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src&apos;&#x0D;&#x0A;- Original element: &apos;org.eevolution.process.CompletePrintOrder.java&apos;" description="Copy compilation unit" destination="=customization/src" element1="/extension\/eevolution\/libero\/src\/main\/java&lt;org.eevolution.process{CompletePrintOrder.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1336639745512" units="1" version="1.0"/>
+</session>

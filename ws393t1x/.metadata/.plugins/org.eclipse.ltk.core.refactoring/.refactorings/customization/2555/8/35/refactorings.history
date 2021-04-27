@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TKCallout.java&apos; to &apos;tkgarment/src/com.tk.callout&apos;&#x0D;&#x0A;- Original project: &apos;customization&apos;&#x0D;&#x0A;- Destination element: &apos;tkgarment/src/com.tk.callout&apos;&#x0D;&#x0A;- Original element: &apos;com.tk.callout.TKCallout.java&apos;" description="Copy compilation unit" destination="=tkgarment/src&lt;com.tk.callout" element1="/src&lt;com.tk.callout{TKCallout.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1346129238282" units="1" version="1.0"/>
+</session>

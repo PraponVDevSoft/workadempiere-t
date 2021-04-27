@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/16306/branches/libero/extension/eevolution/libero/src/main/java/org/compiere/acct
+END
+DocLine_CostCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/adempiere/!svn/ver/12331/branches/libero/extension/eevolution/libero/src/main/java/org/compiere/acct/DocLine_CostCollector.java
+END
+Doc_PPCostCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/adempiere/!svn/ver/16306/branches/libero/extension/eevolution/libero/src/main/java/org/compiere/acct/Doc_PPCostCollector.java
+END
+Doc_PPOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12438/branches/libero/extension/eevolution/libero/src/main/java/org/compiere/acct/Doc_PPOrder.java
+END
+Doc_DDOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/12438/branches/libero/extension/eevolution/libero/src/main/java/org/compiere/acct/Doc_DDOrder.java
+END

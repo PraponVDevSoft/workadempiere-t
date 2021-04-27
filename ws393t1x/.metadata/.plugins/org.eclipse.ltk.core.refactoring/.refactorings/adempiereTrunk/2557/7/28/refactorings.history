@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InventoryCountCreate.java&apos; to &apos;customization/src/org.compiere.process&apos;&#x0D;&#x0A;- Original project: &apos;adempiereTrunk&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src/org.compiere.process&apos;&#x0D;&#x0A;- Original element: &apos;InventoryCountCreate.java&apos;" description="Copy file" destination="=customization/src&lt;org.compiere.process" element1="base/src/org/compiere/process/InventoryCountCreate.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1404815819641" units="0" version="1.0"/>
+</session>

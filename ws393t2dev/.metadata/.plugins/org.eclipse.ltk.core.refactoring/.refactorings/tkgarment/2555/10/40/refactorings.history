@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;line&apos; in &apos;org.compiere.grid.VCreateFromInternalUse.duplicateInventoryLine(...)&apos; to &apos;newLine&apos;&#x0D;&#x0A;- Original project: &apos;tkgarment&apos;&#x0D;&#x0A;- Original element: &apos;org.compiere.grid.VCreateFromInternalUse.duplicateInventoryLine(MInventory, MInventoryLine).line&apos;&#x0D;&#x0A;- Renamed element: &apos;line&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;line&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.compiere.grid{VCreateFromInternalUse.java[VCreateFromInternalUse~duplicateInventoryLine~QMInventory;~QMInventoryLine;@line!3914!3932!3929!3932!QMInventoryLine;!0!true" name="newLine" references="true" stamp="1349503563889" version="1.0"/>
+</session>

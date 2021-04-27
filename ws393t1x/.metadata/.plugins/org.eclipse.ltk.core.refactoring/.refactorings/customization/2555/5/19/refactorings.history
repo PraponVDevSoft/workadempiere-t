@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CompletePrintOrder.java&apos; to &apos;customization/src/org.eevolution.process&apos;&#x0D;&#x0A;- Original project: &apos;customization&apos;&#x0D;&#x0A;- Destination element: &apos;customization/src/org.eevolution.process&apos;&#x0D;&#x0A;- Original element: &apos;CompletePrintOrder.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;org.eevolution.process" element1="/src&lt;{CompletePrintOrder.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1336639773148" units="1" version="1.0"/>
+</session>
